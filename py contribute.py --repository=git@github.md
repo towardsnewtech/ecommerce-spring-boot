@@ -1,1 +1,0 @@
-py contribute.py --repository=git@github.com:towardsnewtech/ecommerce-spring-boot.git -sd="2023/03/25, 18:54:33" -nw
