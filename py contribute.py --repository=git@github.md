@@ -1,1 +1,0 @@
-py contribute.py --repository=git@github.com:devstar0703/SOLSTICE-Flutter-Mobile-app.git -sd="2022/03/04, 18:54:33" -nw
